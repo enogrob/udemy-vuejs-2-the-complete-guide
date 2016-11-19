@@ -16,8 +16,8 @@ Learn everything you need to about Vue.js.
 Section: 1
 0 / 7
 Getting Started
-[ ] 1. Course Introduction 3:08
-[ ] 2. Let's Create our First VueJS Application 4:45
+[x] 1. Course Introduction 3:08
+[x] 2. Let's Create our First VueJS Application 4:45
 [ ] 3. Extending the VueJS Application 4:12
 [ ] 4. Course Structure 3:44
 [ ] 5. Take Advantage of all Course Resources! 1:55
@@ -68,76 +68,42 @@ Using VueJS to Interact with the DOM
 Section: 3
 0 / 15
 Using Conditionals and Rendering Lists
-45. Module Introduction
-0:48
-46. Conditional Rendering with v-if
-3:37
- Starting Code.zip
-47. Using an Alternative v-if Syntax
-1:36
-48. Don't Detach it with v-show
-1:43
-49. Rendering Lists with v-for
-2:25
-50. Getting the Current Index
-1:51
-51. Using an Alternative v-for Syntax
-1:10
-52. Looping through Objects
-4:44
-53. Looping through a List of Numbers
-0:57
-54. Keeping Track of Elements when using v-for
-4:08
-55. Time to Practice - Conditionals and Lists (Problem)
-1:40
- Exercise.zip
-56. Time to Practice - Conditionals and Lists (Solution)
-9:38
-57. Time to Practice - Conditionals and Lists (Code)
-0:00
-58. Module Wrap Up
-0:51
-59. Module Resources & Useful Links
-0:00
+[ ] 45. Module Introduction 0:48
+[ ] 46. Conditional Rendering with v-if 3:37
+[ ] 47. Using an Alternative v-if Syntax 1:36
+[ ] 48. Don't Detach it with v-show 1:43
+[ ] 49. Rendering Lists with v-for 2:25
+[ ] 50. Getting the Current Index 1:51
+[ ] 51. Using an Alternative v-for Syntax 1:10
+[ ] 52. Looping through Objects 4:44
+[ ] 53. Looping through a List of Numbers 0:57
+[ ] 54. Keeping Track of Elements when using v-for 4:08
+[ ] 55. Time to Practice - Conditionals and Lists (Problem) 1:40
+[ ] 56. Time to Practice - Conditionals and Lists (Solution) 9:38
+[ ] 57. Time to Practice - Conditionals and Lists (Code) 0:00
+[ ] 58. Module Wrap Up 0:51
+[ ] 59. Module Resources & Useful Links 0:00
+
 Section: 4
 0 / 16
 First Course Project - The Monster Slayer
-60. Introduction & Challenge
-2:54
- Setup.zip
-61. Setting up the Course Project
-2:37
- Setup.zip
-62. Creating the Vue Instance and Styling the Healthbars
-5:16
-63. Showing the Player Controls Conditionally
-2:02
-64. Implementing a "Start Game" Method
-1:53
-65. Implementing a "Attack" Method
-8:03
-66. Write better Code - Time for Refactoring!
-4:52
-67. Implementing a "Special Attack"
-2:11
-68. Implementing a "Heal" Method
-2:21
-69. Finishing the Action Buttons
-0:59
-70. Creating an Action Log
-2:41
-71. Printing the Log (v-for)
-2:19
-72. Finishing the Log
-1:57
-73. Styling the Log Conditionally
-1:44
-74. Wrap Up
-1:28
-75. Full Application Code
-0:00
- Finished.zip
+[ ] 60. Introduction & Challenge 2:54
+[ ] 61. Setting up the Course Project 2:37
+[ ] 62. Creating the Vue Instance and Styling the Healthbars 5:16
+[ ] 63. Showing the Player Controls Conditionally 2:02
+[ ] 64. Implementing a "Start Game" Method 1:53
+[ ] 65. Implementing a "Attack" Method 8:03
+[ ] 66. Write better Code - Time for Refactoring! 4:52
+[ ] 67. Implementing a "Special Attack" 2:11
+[ ] 68. Implementing a "Heal" Method 2:21
+[ ] 69. Finishing the Action Buttons 0:59
+[ ] 70. Creating an Action Log 2:41
+[ ] 71. Printing the Log (v-for) 2:19
+[ ] 72. Finishing the Log 1:57
+[ ] 73. Styling the Log Conditionally 1:44
+[ ] 74. Wrap Up 1:28
+[ ] 75. Full Application Code 0:00
+
 Section: 5
 0 / 16
 Understanding the VueJS Instance
