@@ -18,11 +18,11 @@ Section: 1
 Getting Started
 [x] 1. Course Introduction 3:08
 [x] 2. Let's Create our First VueJS Application 4:45
-[ ] 3. Extending the VueJS Application 4:12
-[ ] 4. Course Structure 3:44
-[ ] 5. Take Advantage of all Course Resources! 1:55
-[ ] 6. Setup VueJS Locally 2:02
-[ ] 7. Module Resources & Useful Links 0:00
+[x] 3. Extending the VueJS Application 4:12
+[x] 4. Course Structure 3:44
+[x] 5. Take Advantage of all Course Resources! 1:55
+[x] 6. Setup VueJS Locally 2:02
+[x] 7. Module Resources & Useful Links 0:00
 
 Section: 2
 0 / 37
