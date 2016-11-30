@@ -27,17 +27,17 @@ Getting Started
 Section: 2
 0 / 37
 Using VueJS to Interact with the DOM
-[ ] 8. Module Introduction 0:45
-[ ] 9. Understanding VueJS Templates 2:34
-[ ] 10. How the VueJS Template Syntax and Instance Work Together 2:42
-[ ] 11. Accessing Data in the Vue Instance 1:49
-[ ] 12. Binding to Attributes 2:42
-[ ] 13. Understanding and Using Directives 1:27
-[ ] 14. Disable Re-Rendering with v-once 1:41
-[ ] 15. How to Output Raw HTML 2:43
-[ ] 16. Time to Practice - Outputting Data to Templates (Problem) 1:59
-[ ] 17. Time to Practice - Outputting Data to Templates (Solution) 6:12
-[ ] 18. Time to Practice - Outputting Data to Templates (Code) 0:00
+[x] 8. Module Introduction 0:45
+[x] 9. Understanding VueJS Templates 2:34
+[x] 10. How the VueJS Template Syntax and Instance Work Together 2:42
+[x] 11. Accessing Data in the Vue Instance 1:49
+[x] 12. Binding to Attributes 2:42
+[x] 13. Understanding and Using Directives 1:27
+[x] 14. Disable Re-Rendering with v-once 1:41
+[x] 15. How to Output Raw HTML 2:43
+[x] 16. Time to Practice - Outputting Data to Templates (Problem) 1:59
+[x] 17. Time to Practice - Outputting Data to Templates (Solution) 6:12
+[x] 18. Time to Practice - Outputting Data to Templates (Code) 0:00
 [ ] 19. Listening to Events 1:50
 [ ] 20. Getting Event Data from the Event Object 2:36
 [ ] 21. Passing your own Arguments with Events 1:53
